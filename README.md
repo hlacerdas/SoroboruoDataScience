@@ -13,7 +13,7 @@ Entre meus títulos tenho graduação em  Ciência de dados pela Unopar, Formaç
 
 **Links:**
 * [Blog](http://soroboruo.com.br)
-* [LinkedIn]https://www.linkedin.com/in/hudson-lacerda-dos-santos-733513a9/)
+* [LinkedIn](https://www.linkedin.com/in/hudson-lacerda-dos-santos-733513a9/)
 
 
 ## Projetos:
