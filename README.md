@@ -2,28 +2,22 @@
   <img src="banner.png" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# Hudson Lacerda
+<sub>*Ciência de Dados</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Possuo mais de 20 anos de experiência no setor de tecnologia, com atuação em grandes corporações como FIAT Automóveis, AMBEV e Votorantim. Atuei como gestor de tecnologia nos últimos cinco anos na indústria. Possuo vastos conhecimentos de regras de negócio para a indústria de alimentos, em especial na indústria frigorífica, e grande capacidade técnica para análise preditivas, previsibilidade de série temporais, análise de perfil com identificação de Outliers e desenvolvimento de cenários.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Entre meus títulos tenho graduação em  Ciência de dados pela Unopar, Formação técnica em Processamento de dados, Psicologia com foco em gestão de pessoas pela Pontifícia Universidade Católica de Minas Gerais e especialização em gestão de políticas públicas pela Universidade Federal de Viçosa.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, R, Aprendizado de Máquinas, Inteligência Artificial, Data Mining.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [Blog](http://soroboruo.com.br)
+* [LinkedIn]https://www.linkedin.com/in/hudson-lacerda-dos-santos-733513a9/)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os projetos e ensinamentos publicados em Soroboruo.com.br
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+
+
