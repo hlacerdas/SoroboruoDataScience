@@ -27,7 +27,7 @@ Entre meus títulos tenho graduação em  Ciência de dados pela Unopar, Formaç
 
 
 ## Projetos:
-Veja os projetos e ensinamentos publicados em Soroboruo.com.br
+Confira projetos e difusão de conhecimentos em Soroboruo.com.br
 
 
 
