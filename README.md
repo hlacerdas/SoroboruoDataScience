@@ -14,6 +14,12 @@ Entre meus títulos tenho graduação em  Ciência de dados pela Unopar, Formaç
 **Background in:** Python, R, Aprendizado de Máquinas, Inteligência Artificial, Data Mining.
 
 **Links:**
+
+**PLN**
+*[Publicações](https://aclanthology.org/)
+*[Comissão Especial](https://sites.google.com/view/ce-pln)
+*[Portulan Clarin](https://portulanclarin.net/workbench/)
+
 * [Blog](http://soroboruo.com.br)
 * [LinkedIn](https://www.linkedin.com/in/hudson-lacerda-dos-santos-733513a9/)
 
